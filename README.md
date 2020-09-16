@@ -1,0 +1,1 @@
+# License-plugin-test-task
